@@ -1,0 +1,8 @@
+# ninja log v5
+18	1636	7335920315292767	CMakeFiles/untitled.dir/Player.cpp.obj	899f4abe72418c4e
+2	1692	7335920315970502	CMakeFiles/untitled.dir/main.cpp.obj	88209f42d819bd15
+0	115	7335926177526813	build.ninja	cf643de784dad7d1
+3	1562	7335925292646478	CMakeFiles/untitled.dir/Chess.cpp.obj	b8bf7b39b6faa186
+1563	1677	7335925293742808	untitled.exe	c3f8cd9f564c8547
+23	1707	7335920316129969	CMakeFiles/untitled.dir/Game.cpp.obj	12d6e6be726086f4
+3	1247	7335920614901189	CMakeFiles/untitled.dir/AI.cpp.obj	d260f2e06c9a06d6
